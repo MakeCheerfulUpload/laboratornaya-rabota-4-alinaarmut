@@ -1,36 +1,29 @@
-{
-"timetable": {
+ {
+  "timetable": {
     "group": "P3114",
     "day": "monday",
     "lessons": [
       {
-        "lesson1": {
-          "time": "11:40-13:10",
-          "room": "2201 aud.",
-          "place": "Kronverksky Prospekt, 49 lit. A",
-          "teacher": "Konstantin Vladimirovich Pravdin",
-          "lesson": "Mathematics (basic level)"
-        }
+        "lesson1": { "time": "11:40-13:10",  "room": "2201 ауд.", "place": "Кронверский проспект д.49 лит. А", "teacher": "Правдин Константин Владимирович", "lesson": "Математика (базовый уровень)"}
       },
       {
         "lesson2": {
           "time": "13:30-15:00",
-          "room": "2201 aud.",
-          "place": "Kronverksky Prospekt, 49 lit. A",
-          "teacher": "Konstantin Vladimirovich Pravdin",
-          "lesson": "Mathematics (basic level)"
+          "room": "2201 ауд.",
+          "place": "Кронверский проспект д.49 лит. А",
+          "teacher": "Правдин Константин Владимирович",
+          "lesson": "Математика (базовый уровень)"
         }
       },
       {
         "lesson3": {
           "time": "10:00-19:30",
-          "room": "1220 aud.",
-          "place": "Lomonosov str., 9 lit. E",
-          "teacher": "Chirkov Kirill Alexandrovich",
-          "lesson": "Sailing (theoretical lesson)"
+          "room": "1220 ауд.",
+          "place": "ул.Ломоносова д.9 лит. Е",
+          "teacher": "Чирков Кирилл Александрович",
+          "lesson": "Парусный спорт (теоретическое занятие)"
         }
       }
     ]
   }
 }
-
